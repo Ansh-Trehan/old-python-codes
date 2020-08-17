@@ -1,0 +1,11 @@
+list1=["Devansh","Ansh","Ranveer","Ritanjay"]
+print(list1)
+list1[1]="Ayush"
+print(list1)
+list1.append("Ansh")
+list1.append("Sharique")
+print(list1)
+length=len.list1()
+print(length)
+list1.sort()
+list2=[5,2,8,2,8,]

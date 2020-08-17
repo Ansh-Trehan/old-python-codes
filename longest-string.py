@@ -1,0 +1,8 @@
+a=input("enter the string")
+b=input("enter the string")
+c=input("enter the string")
+x=len(a)
+y=len(b)
+z=len(c)
+m=max(x,y,z)
+print("longest string is of length",m)
